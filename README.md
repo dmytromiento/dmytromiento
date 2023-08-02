@@ -1,4 +1,5 @@
-![Developer (3)](https://github.com/dmytromiento/dmytromiento/assets/141241827/32cdf682-2bbb-4ed2-83ce-f5a61c59cc28)
+![Developer (4)](https://github.com/dmytromiento/dmytromiento/assets/141241827/309ff2e4-412f-4f39-afec-4f93d9d12020)
+
 # Hi, I'm Dmytro - Full-stack Developer 🚀
 
 Specialize mainly in the MERN stack (MongoDB, Express, React, Node). My passion lies in writing clean, efficient code and transforming ideas into real-world solutions.
